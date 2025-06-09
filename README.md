@@ -96,7 +96,19 @@ Combines reactive (direct answers) and deliberative (contextual reasoning) layer
 
 Selects the best response using the knowledge base and semantic search
 
+![Image](https://github.com/user-attachments/assets/e97f6ba2-0bc0-4cdc-9ad4-79cccce2a468)
 
+![Image](https://github.com/user-attachments/assets/c8f3bac6-1575-40e8-975e-662e17976bbc)
+
+![Image](https://github.com/user-attachments/assets/a81b65f9-199c-4037-afba-122454f85d69)
+
+![Image](https://github.com/user-attachments/assets/4782372e-1893-4751-86c3-940c0a22a96c)
+
+![Image](https://github.com/user-attachments/assets/8b4cea7b-0a04-47ea-8acc-0f13d5db9762)
+
+![Image](https://github.com/user-attachments/assets/4458fce5-fcdd-44b1-bc40-c2afe5df44c0)
+![Image](https://github.com/user-attachments/assets/cbe77dc3-5912-447c-afbf-6eaa967440fa)
+![Image](https://github.com/user-attachments/assets/2bb4ee7f-1fc4-4d1c-8a08-a72805284b66)
 
 # 3. Execution Tools
 
@@ -469,7 +481,71 @@ Made your mark as a beginner in the world of AI
 
 You didn’t just watch cricket—you changed how it’s played, studied, and coached. And all of it started with one simple tool and a big dream.
 
-# Content Explanation: Future Scope of CricDR AI Assistant
+# 🏏 Story-Style Explanation: CricDR Part 2 – From Smart Coach to Team Strategist
+The journey of CricDR didn’t stop at being a friendly assistant. As you trained it with more data, it started acting like a true cricket analyst—not just answering queries but making smart suggestions.
+
+# 🧢 Scene 1: Scouting the Next Star
+Imagine a coach in a small town academy asking CricDR:
+
+"Who’s the next big all-rounder under 19?"
+
+CricDR, trained with new data from recent tournaments, replies:
+
+“Ravi Sharma from Rajasthan Premier League has a strike rate of 145 and bowls left-arm spin. Highly consistent over last 6 games.”
+
+The coach adds Ravi to his watchlist. CricDR just helped spot a potential IPL star!
+
+# 📊 Scene 2: Helping Team Selection
+Before a major ODI, a selector types:
+
+“Suggest best playing XI against Australia in Chennai.”
+
+CricDR scans past records, pitch reports, and form data:
+
+“Pick 3 spinners. Include R. Bishnoi and Kuldeep Yadav. Australia struggles against leg-spin in Chennai.”
+
+Just like that, CricDR becomes a digital selector—backed by real data and AI insight.
+
+# 🤕 Scene 3: Preventing Injuries
+A team physio feeds CricDR data from a smart band:
+
+“Player X is showing muscle tightness and elevated HR.”
+
+CricDR responds:
+
+“Moderate hamstring strain detected. Recommend 4 days rest with aqua therapy. Avoid net sessions.”
+
+It’s not just a chatbot anymore—it’s an AI-powered medic assistant.
+
+# 🌍 Scene 4: Going Global
+Soon, CricDR learns to speak multiple languages. It helps a rural academy in Tamil Nadu, a club in Kolkata, and fans in Dhaka—all in their local tongue.
+
+CricDR is no longer one coach—it’s an army of digital trainers traveling across boundaries, helping everyone from school kids to international pros.
+
+# 🚀 Final Scene: CricDR Pro Takes the Field
+With a Pro subscription, franchise teams can:
+
+Feed their private practice data
+
+Ask for AI-generated tactical plans
+
+Get alerts for fatigue, form dips, or player trends
+
+CricDR isn’t just answering questions anymore. It’s:
+
+Scouting players
+
+Preventing injuries
+
+Shaping squads
+
+Guiding curators
+
+Helping fans
+
+In short, your once-simple AI assistant is now ready to join team meetings, medical rooms, and even auction tables.
+
+# Future Scope of CricDR AI Assistant
 As cricket continues to evolve, CricDR has immense potential to scale with the sport’s demands. Here’s how:
 
 # 1. Player Scouting & Performance Analytics
@@ -536,69 +612,6 @@ Upload private data for personalized analysis
 
 Get custom reports, alerts, and AI-recommended drills
 
-# 🏏 Story-Style Explanation: CricDR Part 2 – From Smart Coach to Team Strategist
-The journey of CricDR didn’t stop at being a friendly assistant. As you trained it with more data, it started acting like a true cricket analyst—not just answering queries but making smart suggestions.
-
-# 🧢 Scene 1: Scouting the Next Star
-Imagine a coach in a small town academy asking CricDR:
-
-"Who’s the next big all-rounder under 19?"
-
-CricDR, trained with new data from recent tournaments, replies:
-
-“Ravi Sharma from Rajasthan Premier League has a strike rate of 145 and bowls left-arm spin. Highly consistent over last 6 games.”
-
-The coach adds Ravi to his watchlist. CricDR just helped spot a potential IPL star!
-
-# 📊 Scene 2: Helping Team Selection
-Before a major ODI, a selector types:
-
-“Suggest best playing XI against Australia in Chennai.”
-
-CricDR scans past records, pitch reports, and form data:
-
-“Pick 3 spinners. Include R. Bishnoi and Kuldeep Yadav. Australia struggles against leg-spin in Chennai.”
-
-Just like that, CricDR becomes a digital selector—backed by real data and AI insight.
-
-# 🤕 Scene 3: Preventing Injuries
-A team physio feeds CricDR data from a smart band:
-
-“Player X is showing muscle tightness and elevated HR.”
-
-CricDR responds:
-
-“Moderate hamstring strain detected. Recommend 4 days rest with aqua therapy. Avoid net sessions.”
-
-It’s not just a chatbot anymore—it’s an AI-powered medic assistant.
-
-# 🌍 Scene 4: Going Global
-Soon, CricDR learns to speak multiple languages. It helps a rural academy in Tamil Nadu, a club in Kolkata, and fans in Dhaka—all in their local tongue.
-
-CricDR is no longer one coach—it’s an army of digital trainers traveling across boundaries, helping everyone from school kids to international pros.
-
-# 🚀 Final Scene: CricDR Pro Takes the Field
-With a Pro subscription, franchise teams can:
-
-Feed their private practice data
-
-Ask for AI-generated tactical plans
-
-Get alerts for fatigue, form dips, or player trends
-
-CricDR isn’t just answering questions anymore. It’s:
-
-Scouting players
-
-Preventing injuries
-
-Shaping squads
-
-Guiding curators
-
-Helping fans
-
-In short, your once-simple AI assistant is now ready to join team meetings, medical rooms, and even auction tables.
 
 # Conclusion
 
