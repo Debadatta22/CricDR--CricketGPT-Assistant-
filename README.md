@@ -45,6 +45,7 @@ Knowledge base training with files, URLs, Q&A, and real-time chat
 Built-in tools and widgets (e.g., social follow, display PDF, image selectors)
 
 Seamless publishing with embed codes, QR codes, and direct links
+
 ![image](https://github.com/user-attachments/assets/bb3d2789-83ad-44ad-9360-f94616265a31)
 
 
@@ -88,6 +89,7 @@ Web URLs (Wikipedia, Cricbuzz, etc.)
 Q&A Pairs (Manually created question-answer pairs)
 
 Interactive Chat Training (Dynamic learning from conversations)
+
 ![Image](https://github.com/user-attachments/assets/a95c764c-1214-4695-84cf-9dd819b50552)
 
 ![Image](https://github.com/user-attachments/assets/20fe9a82-c2e3-40e8-bd56-e1bc3c1817f8)
@@ -162,6 +164,7 @@ ICC, BCCI, Cricket.com
 Google search results and images
 
 OpenAI tools (ChatGPT, Copilot, Gemini)
+
 ![Image](https://github.com/user-attachments/assets/3671c49e-e077-44e6-9fd0-9176225a5693)
 
 # Step 2: Knowledge Base Setup
@@ -171,6 +174,7 @@ Uploaded PDFs and text summaries of cricket rules, injuries, playing conditions
 Added Q&A for rules, player comparisons, match strategies
 
 Trained through chat to refine real-world queries (e.g., "What’s the difference between off-spin and leg-spin?")
+
 ![Image](https://github.com/user-attachments/assets/38157337-91e1-4f01-b365-67e5c567bc8a)
 
 ![Image](https://github.com/user-attachments/assets/241bc739-2ffb-40b3-a75d-5b727d86c250)
@@ -209,6 +213,7 @@ Letting you publish your agent as a unique standalone link
 Customize the screen design, welcome message, and interface layout
 
 No coding needed—just set your screen style and you're ready to deploy.
+
 ![Image](https://github.com/user-attachments/assets/625c6123-a61b-40a9-8c7c-3cdfdc906bbc)
 
 ![Image](https://github.com/user-attachments/assets/9b6f5b19-5aa1-484f-ad7d-394ade45a9a2)
@@ -225,6 +230,7 @@ Offering a chat UI that simulates real conversation
 Options to set response tone, reply length, typing simulation, and more
 
 Easily embed on websites or share via link
+
 ![Image](https://github.com/user-attachments/assets/e4bcad74-6574-4712-a2d8-0172489da696)
 
 ![Image](https://github.com/user-attachments/assets/3e6d1844-ffaa-415f-935e-6b845a083cad)
@@ -345,11 +351,34 @@ Shared via QR code, embed code, and standalone app link
 ---------------------------------------------------------------------------
 
 For Standalone =[ https://agent.jotform.com/0196f86b39ab78a3b92abb9c1e09ce325780 ]
+
 scan this for standalone channel of my AI Assistant- CricDR
+
 ![qr-code-0196f86b39ab78a3b92abb9c1e09ce325780 (2)](https://github.com/user-attachments/assets/7c2b9e28-9ab2-4e0e-a273-2434e9eb8fdd)
 
+For Chatbot =[ <script
+  src='https://cdn.jotfor.ms/agent/embedjs/0196f86b39ab78a3b92abb9c1e09ce325780/embed.js?skipWelcome=1&maximizable=1'>
+</script> ]
+By embeding on our Site , we can use it
+Just by simple pasting  the code where we want the chatbot to appear on our site
 
+For Sms & Phone agent we need to buy a number(subscription feature)
 
+For voice agent = [ https://agent.jotform.com/0196f86b39ab78a3b92abb9c1e09ce325780/voice ]
+
+scan this for Voice agent of my AI Assistant- CricDR-
+
+![qr-code-0196f86b39ab78a3b92abb9c1e09ce325780 (3)](https://github.com/user-attachments/assets/14a077ea-1fde-4758-ad74-18aaa586cd6f)
+
+For WHATSAPP AGENT , ZOOM AGENT , INSTAGRAM AGENT & MESSENGER AGENT we need to login to our Account and publish it.
+
+For AGENT APP (software application )= [ https://www.jotform.com/app/251556456042456 ]
+
+Or else scan and use this feature of AGENT APP through this- 
+
+![qr-code-251556456042456 (1)](https://github.com/user-attachments/assets/75dcfc6a-3102-4107-8883-1e5115a66475)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 In short, CricDR was built iteratively using Jotform’s intuitive tools, real-world feedback, and multi-source training data.
 
