@@ -5,6 +5,17 @@ For Example- Output will be defined and answererd by Assistant based on input
 
 ![Image](https://github.com/user-attachments/assets/58fcc231-555c-487c-8970-e661fb0e2c12)
 
+# 🎯 Objective
+To build a smart, AI-powered cricket assistant that provides instant, reliable, and expert-level guidance to all types of cricket enthusiasts—beginners, players, analysts, and coaches—using natural language inputs. It aims to simplify access to cricket knowledge and strategic insights through a no-code platform (Jotform AI Agent Builder).
+
+# 💡 Motive
+The motive behind CricDR is to bridge the gap between scattered cricket information and users who seek personalized, contextual, and real-time assistance. Whether it's solving beginner-level doubts, helping in match strategy, or guiding injury recovery, CricDR acts as a single-window solution—built without writing a single line of code.
+
+# 👁️ Vision
+The long-term vision of CricDR is to become a go-to AI assistant for the cricket ecosystem—offering support in training, match planning, player analysis, pitch creation, and even post-match feedback collection. It envisions integrating with global cricket platforms and becoming a personal AI coach and analyst accessible from chatbots, websites, voice assistants, and messaging apps.
+
+CricDR empowers users with cricket intelligence anytime, anywhere—using accessible AI technology.
+
 # CricDR - AI Cricket Assistant (Built Using Jotform AI Agent Builder)
 
 ![Image](https://github.com/user-attachments/assets/fe4376f4-b1c8-46bb-866b-989145adad09)
