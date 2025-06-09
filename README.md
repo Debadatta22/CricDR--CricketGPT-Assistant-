@@ -7,7 +7,7 @@ For Example- Output will be defined and answererd by Assistant based on input
 
 # CricDR - AI Cricket Assistant (Built Using Jotform AI Agent Builder)
 
-![Image](https://github.com/user-attachments/assets/358052c7-99b7-4ff7-b16d-4f7b3edfedc4)
+![Image](https://github.com/user-attachments/assets/fe4376f4-b1c8-46bb-866b-989145adad09)
 
 # Introduction: Idea, Logic, Planning, and Execution
 
@@ -55,6 +55,8 @@ Built-in Widgets – Add social links, media display, website finders, and more.
 Easy Sharing – Share your agent with a QR code, public link, or embed it on any website.
 
 Beginner Friendly – Designed for non-developers and quick learning curve.
+
+![Image](https://github.com/user-attachments/assets/358052c7-99b7-4ff7-b16d-4f7b3edfedc4)
 
 In short, Jotform makes AI accessible to anyone, regardless of technical skills. It handles the backend logic while letting users focus on content and usability.
 
