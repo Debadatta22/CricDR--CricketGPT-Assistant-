@@ -1,8 +1,13 @@
 # CricDR--CricketGPT-Assistant-
 CricDR - AI Cricket Assistant built with Jotform An AI-powered cricket assistant that answers queries, helps with strategy, training, injury analysis, and more—built entirely using Jotform’s no-code AI Agent Builder and deployable across web, chatbot, and voice platforms.
+
+For Example- Output will be defined and answererd by Assistant based on input 
+
 ![Image](https://github.com/user-attachments/assets/58fcc231-555c-487c-8970-e661fb0e2c12)
 
 # CricDR - AI Cricket Assistant (Built Using Jotform AI Agent Builder)
+
+![Image](https://github.com/user-attachments/assets/358052c7-99b7-4ff7-b16d-4f7b3edfedc4)
 
 # Introduction: Idea, Logic, Planning, and Execution
 
@@ -10,13 +15,15 @@ The idea behind CricDR originated from a real-world gap in interactive cricket a
 
 The logic was simple: use a no-code AI agent-building platform to train a chatbot-like assistant with comprehensive cricket knowledge. The planning involved gathering relevant data, identifying user needs, designing an intuitive user interface, and training the agent with diverse knowledge sources. The execution phase included training the model using documents, links, and Q&A, designing an interactive frontend, and deploying it across multiple channels such as web, mobile, chatbot, WhatsApp, and more.
 
+![Image](https://github.com/user-attachments/assets/9ec02245-c9d1-4c3b-986a-4a379dc5f431)
+
 In short, CricDR was built to help beginners, professionals, coaches, analysts, and fans with everything from rules to injury predictions—all without writing any code.
 
 # About the Platform: Jotform AI Agent Builder
 
 Jotform's AI Agent Builder is a no-code platform that allows users to create fully functional AI agents for free. It provides a simple user interface where one can upload data, configure responses, and deploy agents across various communication channels.
 
-#What It Offers:
+# What It Offers:
 
 User-friendly drag-and-drop builder
 
@@ -27,6 +34,27 @@ Knowledge base training with files, URLs, Q&A, and real-time chat
 Built-in tools and widgets (e.g., social follow, display PDF, image selectors)
 
 Seamless publishing with embed codes, QR codes, and direct links
+
+# 🔹 Features Gained Using Jotform
+No Coding Required – Build powerful AI agents without writing a single line of code.
+
+Simple to Use – User-friendly interface ideal for beginners.
+
+Drag-and-Drop Design – Easily create forms, interfaces, and layouts visually.
+
+Multi-Channel Deployment – Publish your agent across web, mobile, chatbot, voice, SMS, and more.
+
+Knowledge Base Training – Upload text, files, links, or Q&A for instant learning.
+
+Responsive Interface – Auto-adjusts layout for desktop, tablet, and mobile.
+
+Real-Time Feedback Integration – Collect user reviews and improve continuously.
+
+Built-in Widgets – Add social links, media display, website finders, and more.
+
+Easy Sharing – Share your agent with a QR code, public link, or embed it on any website.
+
+Beginner Friendly – Designed for non-developers and quick learning curve.
 
 In short, Jotform makes AI accessible to anyone, regardless of technical skills. It handles the backend logic while letting users focus on content and usability.
 
