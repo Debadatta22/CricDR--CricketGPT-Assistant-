@@ -356,13 +356,20 @@ scan this for standalone channel of my AI Assistant- CricDR
 
 ![qr-code-0196f86b39ab78a3b92abb9c1e09ce325780 (2)](https://github.com/user-attachments/assets/7c2b9e28-9ab2-4e0e-a273-2434e9eb8fdd)
 
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 For Chatbot =[ <script
   src='https://cdn.jotfor.ms/agent/embedjs/0196f86b39ab78a3b92abb9c1e09ce325780/embed.js?skipWelcome=1&maximizable=1'>
 </script> ]
+
 By embeding on our Site , we can use it
 Just by simple pasting  the code where we want the chatbot to appear on our site
 
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 For Sms & Phone agent we need to buy a number(subscription feature)
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 For voice agent = [ https://agent.jotform.com/0196f86b39ab78a3b92abb9c1e09ce325780/voice ]
 
@@ -370,7 +377,11 @@ scan this for Voice agent of my AI Assistant- CricDR-
 
 ![qr-code-0196f86b39ab78a3b92abb9c1e09ce325780 (3)](https://github.com/user-attachments/assets/14a077ea-1fde-4758-ad74-18aaa586cd6f)
 
+----------------------------------------------------------------------------------------------------------------------------------------------
+
 For WHATSAPP AGENT , ZOOM AGENT , INSTAGRAM AGENT & MESSENGER AGENT we need to login to our Account and publish it.
+
+----------------------------------------------------------------------------------------------------------------------------------------------
 
 For AGENT APP (software application )= [ https://www.jotform.com/app/251556456042456 ]
 
