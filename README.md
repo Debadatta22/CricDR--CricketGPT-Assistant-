@@ -23,13 +23,13 @@ CricDR empowers users with cricket intelligence anytime, anywhere—using access
 # 🌐 Access CricDR AI Assistant on Multiple Platforms
 We have made CricDR available across different platforms for an enhanced and flexible user experience. You can explore, interact, and test the AI assistant using the links and embed script below:
 
-🔹 Standalone Web Assistant
+# 🔹 Standalone Web Assistant
 
 Access the CricDR assistant in a standalone web page format:
 
 [Launch Standalone Assistant](https://agent.jotform.com/0196f86b39ab78a3b92abb9c1e09ce325780)
 
-🔹 Chatbot (For Websites)
+# 🔹 Chatbot (For Websites)
 To embed the assistant as a chatbot in your own website, use the following script tag:
 
 <script
@@ -38,13 +38,13 @@ To embed the assistant as a chatbot in your own website, use the following scrip
 
 Paste this into the HTML of your website where you want the chatbot to appear.
 
-🔹 Voice Assistant
+# 🔹 Voice Assistant
 
 Interact with CricDR through voice-based input and audio response:
 
 [Launch Standalone Assistant](https://agent.jotform.com/0196f86b39ab78a3b92abb9c1e09ce325780/voice)
 
-🔹 Software Application (App Interface)
+# 🔹 Software Application (App Interface)
 
 Use CricDR as a mobile/web app via Jotform App Builder:
 
