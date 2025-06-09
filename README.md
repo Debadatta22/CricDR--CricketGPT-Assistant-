@@ -1,6 +1,6 @@
 # CricDR--CricketGPT-Assistant-
 CricDR - AI Cricket Assistant built with Jotform An AI-powered cricket assistant that answers queries, helps with strategy, training, injury analysis, and more—built entirely using Jotform’s no-code AI Agent Builder and deployable across web, chatbot, and voice platforms.
-
+![Image](https://github.com/user-attachments/assets/58fcc231-555c-487c-8970-e661fb0e2c12)
 
 # CricDR - AI Cricket Assistant (Built Using Jotform AI Agent Builder)
 
