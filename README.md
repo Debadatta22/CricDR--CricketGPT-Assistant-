@@ -459,11 +459,33 @@ In short, CricDR is a multi-functional cricket assistant for fans, players, coac
 
 A recording of the voice assistant has also been included to showcase its conversational style and effectiveness across voice-enabled platforms.
 
+## 🎥 CricDR AI Assistant Demo
+
+[![Watch Demo](https://img.icons8.com/ios-filled/100/play--v1.png)](https://drive.google.com/file/d/134BxU3GjqUoq1tE4U6AZ-MNR9J6BfaYc/view?usp=drive_link)
+
+[![Watch Demo](https://img.icons8.com/ios-filled/100/play--v1.png)](https://drive.google.com/file/d/1iw6OhjTm16RD_nqPO2eTV1uAYZwDVAnx/view?usp=drive_link)
+
+> Click the play icon above to view the full demo of CricDR’s performance and voice response in action.
 
 
 A feedback form was designed using Jotform's no-code form builder, which allowed us to create a structured and visually appealing feedback mechanism without writing any code. Jotform enabled us to define the form layout, questions, and design through simple drag-and-drop elements and text inputs. This allowed user feedback to be collected in an organized and efficient manner.
 
+
 Jotform operates behind the scenes using form schema definition, secure form rendering, and real-time submission handling—all supported by their internal secure data pipeline and cloud storage architecture. The submitted responses are securely stored, encrypted, and made visible only to the form creator.
+
+![Image](https://github.com/user-attachments/assets/8093c416-b35b-4a0f-8e5a-72be658b5585)
+
+![Image](https://github.com/user-attachments/assets/7159623c-67a3-4491-bf33-70775a429e40)
+
+![Image](https://github.com/user-attachments/assets/91fe229e-0702-4028-a5b5-82ab23f4ca17)
+
+![Image](https://github.com/user-attachments/assets/12ecd56c-0a96-4fd3-8366-80d00f136cc2)
+
+![Image](https://github.com/user-attachments/assets/131ca1dd-71ba-4d17-a5c4-5dbc355ac9fe)
+
+![Image](https://github.com/user-attachments/assets/7dc33326-9cd0-4241-8aff-16cd12523ac1)
+
+Everything will be notified to the devloper through notifications.
 
 Sample feedback submissions have been included as test snapshots, along with the automatic notifications we received via Gmail and the Jotform mobile app. Every time a user interacted with the assistant or submitted a feedback form, real-time alerts were triggered to notify us of user activity.
 
@@ -772,6 +794,15 @@ Teams or coaches can subscribe to CricDR Pro:
 Upload private data for personalized analysis
 
 Get custom reports, alerts, and AI-recommended drills
+
+# 💡 Why We Chose Jotform and What We Learned
+Jotform was chosen as the platform for building our AI assistant because it allowed us, as beginners, to explore the world of artificial intelligence without writing any code. Through this no-code AI Agent Builder, up to three intelligent agents could be created for free, giving us the flexibility to test, learn, and improve.
+
+By working on this project, we were introduced to core AI concepts such as how data is processed, how responses are generated through natural language understanding, and how user interactions can be intelligently managed. The experience helped us understand the difference between AI agents and AI assistants—where agents are trained with knowledge and logic to simulate decision-making, and assistants focus on providing user-friendly interactions based on those decisions.
+
+We were also able to see how Jotform manages backend operations like training using embeddings and retrieval-based generation, while we simply focused on content, layout, and user flow. This gave us a strong foundation in AI system design and deployment across multiple channels.
+
+In short, Jotform not only empowered us to build our own AI project, but it also gave us the opportunity to deeply understand how intelligent systems are structured, trained, and used—without needing any programming expertise.
 
 
 # Conclusion
