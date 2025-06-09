@@ -20,6 +20,36 @@ CricDR empowers users with cricket intelligence anytime, anywhere—using access
 
 ![Image](https://github.com/user-attachments/assets/fe4376f4-b1c8-46bb-866b-989145adad09)
 
+# 🌐 Access CricDR AI Assistant on Multiple Platforms
+We have made CricDR available across different platforms for an enhanced and flexible user experience. You can explore, interact, and test the AI assistant using the links and embed script below:
+
+🔹 Standalone Web Assistant
+
+Access the CricDR assistant in a standalone web page format:
+
+[Launch Standalone Assistant](https://agent.jotform.com/0196f86b39ab78a3b92abb9c1e09ce325780)
+
+🔹 Chatbot (For Websites)
+To embed the assistant as a chatbot in your own website, use the following script tag:
+
+<script
+  src='https://cdn.jotfor.ms/agent/embedjs/0196f86b39ab78a3b92abb9c1e09ce325780/embed.js?skipWelcome=1&maximizable=1'>
+</script>
+
+Paste this into the HTML of your website where you want the chatbot to appear.
+
+🔹 Voice Assistant
+
+Interact with CricDR through voice-based input and audio response:
+
+[Launch Standalone Assistant](https://agent.jotform.com/0196f86b39ab78a3b92abb9c1e09ce325780/voice)
+
+🔹 Software Application (App Interface)
+
+Use CricDR as a mobile/web app via Jotform App Builder:
+
+[Launch Standalone Assistant](https://www.jotform.com/app/251556456042456)
+
 # Introduction: Idea, Logic, Planning, and Execution
 
 The idea behind CricDR originated from a real-world gap in interactive cricket assistance. While cricket fans, beginners, and even professionals have vast resources online, they often lack a single personalized tool that can quickly respond to cricket-related queries, offer training tips, and assist in analysis. My goal was to create an intelligent assistant that caters to this wide range of users.
