@@ -393,8 +393,9 @@ Or else scan and use this feature of AGENT APP through this-
 
 In short, CricDR was built iteratively using Jotform’s intuitive tools, real-world feedback, and multi-source training data.
 
+# Results and Snapshots 
 
-# Features of CricDR
+Snapshots of our AI agent's performance have been captured while responding to various cricket-related queries, including image-based answers when requested. 
 
 Answers cricket rules, formats, player stats, match history
 
@@ -411,6 +412,63 @@ Tracks recovery plans and fitness regimens for injured players
 Supports deployment on multiple platforms with responsive design
 
 In short, CricDR is a multi-functional cricket assistant for fans, players, coaches, and analysts.
+
+![Image](https://github.com/user-attachments/assets/b95d1e05-ce72-4a6d-8163-c3cbb3318f34)
+
+![Image](https://github.com/user-attachments/assets/b83a590d-6f6c-4d19-ac7f-25d6281366bc)
+
+![Image](https://github.com/user-attachments/assets/3cdb31be-94d3-4ace-9f97-64a3dacb8ddb)
+
+![Image](https://github.com/user-attachments/assets/7e579000-0f7b-4295-997e-5fdfc699c531)
+
+![Image](https://github.com/user-attachments/assets/4120a058-73c7-4617-9bca-3385f9fbdd90)
+
+![Image](https://github.com/user-attachments/assets/aae21ccb-c419-41d7-9be1-737e3d9917d2)
+
+![Image](https://github.com/user-attachments/assets/2b668240-3c98-431a-b54e-67b8b507823a)
+
+![Image](https://github.com/user-attachments/assets/c0eb87c1-3e7e-4de4-9e38-623287f1599a)
+
+![Image](https://github.com/user-attachments/assets/f7710cfc-21c9-4146-8f8e-67a2a63f28e0)
+
+![Image](https://github.com/user-attachments/assets/0cc45334-5550-4781-bf8b-56ee2fb4a950)
+
+![Image](https://github.com/user-attachments/assets/4ec36d61-fce5-40e8-97a9-8cd9335b0c92)
+
+![Image](https://github.com/user-attachments/assets/3d365aa2-0681-46e0-ac33-a1fba29482df)
+
+![Image](https://github.com/user-attachments/assets/4d7befa2-c199-43d4-8b76-b4657d10b9e3)
+
+![Image](https://github.com/user-attachments/assets/a21d70d2-c649-49b8-90b2-dbfd5be0a048)
+
+![Image](https://github.com/user-attachments/assets/cb94de95-7209-489a-b5ec-dc65b85953ea)
+
+![Image](https://github.com/user-attachments/assets/95fc8cba-0bac-461a-8968-970dca122e99)
+
+![Image](https://github.com/user-attachments/assets/b90bdab3-5e59-4442-8ab4-6f9dd02052c4)
+
+![Image](https://github.com/user-attachments/assets/e32b3ba0-74f2-4b6b-b16b-b14efaefb758)
+
+![Image](https://github.com/user-attachments/assets/86a62e43-ed97-4d72-9ff1-3929c32d3273)
+
+![Image](https://github.com/user-attachments/assets/fd7a97c9-9e17-482b-bbd4-789146db5d3a)
+
+![Image](https://github.com/user-attachments/assets/b56bb1c6-ff45-4a28-9b1b-6de1e5f1860c)
+
+![Image](https://github.com/user-attachments/assets/134e328e-c1e0-4e50-8442-6506fe2cf048)
+
+A recording of the voice assistant has also been included to showcase its conversational style and effectiveness across voice-enabled platforms.
+
+
+
+A feedback form was designed using Jotform's no-code form builder, which allowed us to create a structured and visually appealing feedback mechanism without writing any code. Jotform enabled us to define the form layout, questions, and design through simple drag-and-drop elements and text inputs. This allowed user feedback to be collected in an organized and efficient manner.
+
+Jotform operates behind the scenes using form schema definition, secure form rendering, and real-time submission handling—all supported by their internal secure data pipeline and cloud storage architecture. The submitted responses are securely stored, encrypted, and made visible only to the form creator.
+
+Sample feedback submissions have been included as test snapshots, along with the automatic notifications we received via Gmail and the Jotform mobile app. Every time a user interacted with the assistant or submitted a feedback form, real-time alerts were triggered to notify us of user activity.
+
+User responses were accessible only to us—the assistant creator—and were protected by password-encrypted access. The feedback data could not be viewed by any other user, ensuring confidentiality and data protection at every step.
+
 
 # Multi-Channel Deployment and Behind-the-Scenes Technology 
 How Jotform Supports Deployment Across Multiple Channels
