@@ -73,6 +73,18 @@ Web URLs (Wikipedia, Cricbuzz, etc.)
 Q&A Pairs (Manually created question-answer pairs)
 
 Interactive Chat Training (Dynamic learning from conversations)
+![Image](https://github.com/user-attachments/assets/a95c764c-1214-4695-84cf-9dd819b50552)
+
+![Image](https://github.com/user-attachments/assets/20fe9a82-c2e3-40e8-bd56-e1bc3c1817f8)
+
+![Image](https://github.com/user-attachments/assets/0fbad3b9-c08a-4335-b6e5-29d754080933)
+
+![Image](https://github.com/user-attachments/assets/06201575-61ba-4f8f-aee9-5cef37171502)
+
+![Image](https://github.com/user-attachments/assets/1c346cd4-6474-499b-b66a-c2c430a2d96f)
+
+![Image](https://github.com/user-attachments/assets/8acd46b6-cc70-48ac-b39e-a327df99cbed)
+
 
 All inputs are converted into embeddings and stored in a vector database. Jotform then uses Retrieval-Augmented Generation (RAG) to match user queries to the most relevant content.
 
@@ -143,6 +155,103 @@ PDF/image display
 Website scraper (Find in website)
 
 Image selector for field setup
+
+# Explanation of each channel (standalone, chatbot, voice, phone, SMS, WhatsApp, Messenger), along with how Jotform allows you to build AI agents for them without any coding:
+
+# 🔹 Standalone
+A standalone agent runs as a complete web page or link. Users can interact directly in their browser without embedding or using third-party apps.
+
+Jotform allows this by:
+
+Letting you publish your agent as a unique standalone link
+
+Customize the screen design, welcome message, and interface layout
+
+No coding needed—just set your screen style and you're ready to deploy.
+
+# 🔹 Chatbot
+A chatbot is an AI-powered messaging assistant that interacts like a human in chat windows.
+
+Jotform allows this by:
+
+Offering a chat UI that simulates real conversation
+
+Options to set response tone, reply length, typing simulation, and more
+
+Easily embed on websites or share via link
+
+# 🔹 Voice Assistant
+A voice agent responds to users' spoken questions using speech recognition and text-to-speech.
+
+Jotform allows this by:
+
+Connecting your agent to voice platforms (like phones or apps that support speech)
+
+Adjusting the response level, tone, and voice delivery style
+
+No scripting—only settings and toggles
+
+# 🔹 Phone
+A phone agent lets users call a number and talk to your AI, which replies using voice.
+
+Jotform allows this by:
+
+Linking your AI to telephony systems (via Twilio, for example)
+
+You configure interaction style—voice clarity, message pace, etc.
+
+No backend coding—just configuration in the Jotform dashboard
+
+# 🔹 SMS
+An SMS agent replies to user queries sent via text messages.
+
+Jotform allows this by:
+
+Connecting to SMS platforms (again, via services like Twilio)
+
+Set up agent behavior for short-form interaction
+
+Customize how the agent replies with concise, helpful responses
+
+# 🔹 WhatsApp
+An AI agent for WhatsApp works like a personal assistant in the messaging app.
+
+Jotform allows this by:
+
+Letting you deploy agents to WhatsApp through integration tools
+
+You control the message tone, reply style, and interaction limit
+
+No need to build anything—just edit text and publish
+
+# 🔹 Messenger (Meta/Facebook)
+An agent that chats with users on Facebook Messenger.
+
+Jotform allows this by:
+
+Direct integration with Facebook Messenger platforms
+
+Configuration of welcome greeting, chat tone, and auto-responses
+
+Uses same AI logic—only the interface channel differs
+
+# Jotform makes it extremely simple to build for these channels by offering:
+
+No-code setup
+
+Editable screen designs
+
+Control over:
+
+Welcome message
+
+Assistant tone
+
+Response length
+
+User interactivity level
+
+All we need to do is train the AI, set your channel preferences, and publish. No programming or scripting is needed at any stage.
 
 # Step 4: Feedback and Improvement
 
