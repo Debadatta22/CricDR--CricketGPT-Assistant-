@@ -96,6 +96,8 @@ Combines reactive (direct answers) and deliberative (contextual reasoning) layer
 
 Selects the best response using the knowledge base and semantic search
 
+
+
 # 3. Execution Tools
 
 Agents can:
