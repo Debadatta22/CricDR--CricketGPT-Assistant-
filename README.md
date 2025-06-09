@@ -45,6 +45,8 @@ Knowledge base training with files, URLs, Q&A, and real-time chat
 Built-in tools and widgets (e.g., social follow, display PDF, image selectors)
 
 Seamless publishing with embed codes, QR codes, and direct links
+![image](https://github.com/user-attachments/assets/bb3d2789-83ad-44ad-9360-f94616265a31)
+
 
 # 🔹 Features Gained Using Jotform
 No Coding Required – Build powerful AI agents without writing a single line of code.
@@ -135,6 +137,10 @@ Submit forms or gather feedback
 
 Connect to third-party tools using APIs or webhooks
 
+![Image](https://github.com/user-attachments/assets/df4acfef-605c-4fbf-8801-b876e6e94c86)
+![Image](https://github.com/user-attachments/assets/266dd748-b27c-4aef-b9ed-c65029c26017)
+![Image](https://github.com/user-attachments/assets/2aeb9eab-7944-423f-bcf4-b8f7bd6132ae)
+
 In short, Jotform enables users to build intelligent systems that behave like trained assistants using simple inputs.
 
 # Implementation: Building CricDR Step by Step
@@ -156,6 +162,7 @@ ICC, BCCI, Cricket.com
 Google search results and images
 
 OpenAI tools (ChatGPT, Copilot, Gemini)
+![Image](https://github.com/user-attachments/assets/3671c49e-e077-44e6-9fd0-9176225a5693)
 
 # Step 2: Knowledge Base Setup
 
@@ -164,6 +171,13 @@ Uploaded PDFs and text summaries of cricket rules, injuries, playing conditions
 Added Q&A for rules, player comparisons, match strategies
 
 Trained through chat to refine real-world queries (e.g., "What’s the difference between off-spin and leg-spin?")
+![Image](https://github.com/user-attachments/assets/38157337-91e1-4f01-b365-67e5c567bc8a)
+
+![Image](https://github.com/user-attachments/assets/241bc739-2ffb-40b3-a75d-5b727d86c250)
+
+![Image](https://github.com/user-attachments/assets/24926658-08b9-4cd3-81e1-d85007c00704)
+
+![Image](https://github.com/user-attachments/assets/99e6cf74-cc09-4cf2-a43d-22e89702ba2b)
 
 # Step 3: Interface and Agent Design
 
@@ -195,6 +209,11 @@ Letting you publish your agent as a unique standalone link
 Customize the screen design, welcome message, and interface layout
 
 No coding needed—just set your screen style and you're ready to deploy.
+![Image](https://github.com/user-attachments/assets/625c6123-a61b-40a9-8c7c-3cdfdc906bbc)
+
+![Image](https://github.com/user-attachments/assets/9b6f5b19-5aa1-484f-ad7d-394ade45a9a2)
+
+![Image](https://github.com/user-attachments/assets/02f4c638-aa24-4ac6-b362-d9c61f318a6d)
 
 # 🔹 Chatbot
 A chatbot is an AI-powered messaging assistant that interacts like a human in chat windows.
@@ -206,6 +225,9 @@ Offering a chat UI that simulates real conversation
 Options to set response tone, reply length, typing simulation, and more
 
 Easily embed on websites or share via link
+![Image](https://github.com/user-attachments/assets/e4bcad74-6574-4712-a2d8-0172489da696)
+
+![Image](https://github.com/user-attachments/assets/3e6d1844-ffaa-415f-935e-6b845a083cad)
 
 # 🔹 Voice Assistant
 A voice agent responds to users' spoken questions using speech recognition and text-to-speech.
@@ -218,6 +240,9 @@ Adjusting the response level, tone, and voice delivery style
 
 No scripting—only settings and toggles
 
+![Image](https://github.com/user-attachments/assets/b944e9b5-d3c0-4cc0-a9ca-06a0d2c49d3b)
+
+
 # 🔹 Phone
 A phone agent lets users call a number and talk to your AI, which replies using voice.
 
@@ -228,6 +253,8 @@ Linking your AI to telephony systems (via Twilio, for example)
 You configure interaction style—voice clarity, message pace, etc.
 
 No backend coding—just configuration in the Jotform dashboard
+
+![Image](https://github.com/user-attachments/assets/a5eebbdf-0791-4cf7-8562-8727c2a982b2)
 
 # 🔹 SMS
 An SMS agent replies to user queries sent via text messages.
@@ -240,6 +267,8 @@ Set up agent behavior for short-form interaction
 
 Customize how the agent replies with concise, helpful responses
 
+![Image](https://github.com/user-attachments/assets/f6330099-738d-4a10-8021-51997fb9e0a5)
+
 # 🔹 WhatsApp
 An AI agent for WhatsApp works like a personal assistant in the messaging app.
 
@@ -251,6 +280,9 @@ You control the message tone, reply style, and interaction limit
 
 No need to build anything—just edit text and publish
 
+![image](https://github.com/user-attachments/assets/cedf5300-7a2f-403a-ac35-7e28769dd98b)
+
+
 # 🔹 Messenger (Meta/Facebook)
 An agent that chats with users on Facebook Messenger.
 
@@ -261,6 +293,9 @@ Direct integration with Facebook Messenger platforms
 Configuration of welcome greeting, chat tone, and auto-responses
 
 Uses same AI logic—only the interface channel differs
+
+![image](https://github.com/user-attachments/assets/8558bef1-e129-49f6-8a6d-238defcc791d)
+
 
 # Jotform makes it extremely simple to build for these channels by offering:
 
@@ -284,9 +319,14 @@ All we need to do is train the AI, set your channel preferences, and publish. No
 
 Created a form to collect user feedback and suggestions
 
+![image](https://github.com/user-attachments/assets/b7593565-6da0-4aa8-9d5c-a34da74a0546)
+
 Used conversation logs to improve question matching and accuracy
 
 Updated training data regularly to reflect current trends and changes in cricket
+
+![image](https://github.com/user-attachments/assets/880dcd27-2e25-4878-882e-e96166fbbb42)
+
 
 # Step 5: Deployment
 
@@ -302,7 +342,17 @@ WhatsApp agent
 
 Shared via QR code, embed code, and standalone app link
 
+---------------------------------------------------------------------------
+
+For Standalone =[ https://agent.jotform.com/0196f86b39ab78a3b92abb9c1e09ce325780 ]
+scan this for standalone channel of my AI Assistant- CricDR
+![qr-code-0196f86b39ab78a3b92abb9c1e09ce325780 (2)](https://github.com/user-attachments/assets/7c2b9e28-9ab2-4e0e-a273-2434e9eb8fdd)
+
+
+
+
 In short, CricDR was built iteratively using Jotform’s intuitive tools, real-world feedback, and multi-source training data.
+
 
 # Features of CricDR
 
