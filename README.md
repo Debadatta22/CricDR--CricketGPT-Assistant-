@@ -3,7 +3,8 @@ CricDR - AI Cricket Assistant built with Jotform An AI-powered cricket assistant
 
 For Example- Output will be defined and answererd by Assistant based on input 
 
-![Image](https://github.com/user-attachments/assets/58fcc231-555c-487c-8970-e661fb0e2c12)
+![image](https://github.com/user-attachments/assets/64ac8fcc-ede7-4d97-9896-fc59e9844436)
+
 
 # 🎯 Objective
 To build a smart, AI-powered cricket assistant that provides instant, reliable, and expert-level guidance to all types of cricket enthusiasts—beginners, players, analysts, and coaches—using natural language inputs. It aims to simplify access to cricket knowledge and strategic insights through a no-code platform (Jotform AI Agent Builder).
